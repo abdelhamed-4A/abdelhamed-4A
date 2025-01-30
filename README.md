@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Abdel-Hamed</h1>
 <h3 align="center">A Junior DevOps Engineer from Egypt</h3>
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Focusing+on+Development+%26+Operations;Utilizing+skills+in+DevOps+%26+Cloud+Computing&font=Fira+Code&center=true&width=600&height=45&color=36BCF7FF&vCenter=true&size=25"></a>
-</p> 
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Focusing+on+Development+%26+Operations;Utilizing+skills+in+DevOps+%26+Cloud+Computing&font=Fira+Code&center=true&width=600&height=45&color=36BCF7FF&vCenter=true&size=25" alt="Typing SVG" />
+</p>
 - 🌱 I’m currently learning **DevOps, Cloud, AWS, GCP, Linux, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [abdelhamed-4A](https://github.com/abdelhamed-4A)
