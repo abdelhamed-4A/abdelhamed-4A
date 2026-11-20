@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://certdirectory.io/profile/abdel-hamed-abdel-nasser?utm_source=github&utm_medium=readme">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/abdel-hamed-abdel-nasser.svg?style=card&theme=dark">
-      <img alt="Abdel-Hamed Abdel-Nasser on CertDirectory" src="https://certdirectory.io/badge/abdel-hamed-abdel-nasser.svg?style=card">
-    </picture>
-  </a>
-</p>
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Abdel-Hamed Abdel-Nasser</h1>
 <h3 align="center">DevOps Engineer | Certified Kubernetes Administrator (CKA)</h3>
 
@@ -114,3 +105,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://certdirectory.io/profile/abdel-hamed-abdel-nasser?utm_source=github&utm_medium=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/abdel-hamed-abdel-nasser.svg?style=card&theme=dark">
+      <img alt="Abdel-Hamed Abdel-Nasser on CertDirectory" src="https://certdirectory.io/badge/abdel-hamed-abdel-nasser.svg?style=card">
+    </picture>
+  </a>
+</p>
